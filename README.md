@@ -14,7 +14,8 @@ The application allows users to store and manage book names using a .txt file.
 ⸻
 
  Technologies Used
-	•	Java
+	•	Java 
+	•	don't use oop (basics only)
 	•	JavaFX
 	•	File Handling (.txt)
 
